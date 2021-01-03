@@ -17,7 +17,7 @@ public class SumUp_Using_do_whle_loop {
             JOptionPane.showMessageDialog(null,"Sum of numbers: " + sum);
 
             choice = JOptionPane.showInputDialog("Do you want to continue y/n? ").charAt(0);
-        }while (choice=='y' || choice == 'n');
+        }while (choice=='y' || choice == 'Y');
 
     }
 }
