@@ -4,7 +4,7 @@ public class Exercise5_7 {
         //Discuss a situation in which it would be more appropriate to use a do ... while statement than a while statement. Explain why.
 
        //ANSWER
-       /*: If you want some statement or set of statements to execute at least once, then repeat based on a condition, a do ... while is more appropriate than a while (or a for ).
+       /*: set of statements to execute at least once, then repeat based on a condition, a do ... while is more appropriate than a while (or a for ).
        1. A do - while statement tests the loop-continuation condition after executing the loop’s body; therefore, the body always executes at least once.
        11.A while tests the loop-continuation condition before executing the loop’s body, so the program would need to include the statement(s) required to execute at least once both before the loop and in
         the body of the loop.
